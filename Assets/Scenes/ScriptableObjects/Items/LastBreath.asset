@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d35adfddd0e8ad34b8660a24ae72ed14, type: 3}
+  m_Name: LastBreath
+  m_EditorClassIdentifier: 
+  Name: Last Breath
+  image: {fileID: 21300000, guid: 3118e9652ada92c4eafd09ac39b3a166, type: 3}
+  ItemType: 1
+  WeaponType: 8
+  WeaponAttackType: 2
+  weaponFireType: 0
+  FireRate: 2
+  WeaponDamage: 1000
+  projectilePrefab: {fileID: 812634787166142998, guid: 2b743c1a36fde6f4896a50402450bc99, type: 3}
+  WeaponCost: 1000000
+  DamageMultiplier: 20
+  Shooting: 0
